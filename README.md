@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Junhyuk Kang</h1>
+<h1 align="center">Hi 👋 I'm Junhyeok Kang</h1>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
    - 공동 1저자, KAICTS 2025 한국인공지능융합기술학회 추계학술대회
 
 3. **상관관계 기반 파생변수 생성과 AutoML을 활용한 감귤 착과량 예측**
-   - 2저자, 한국소프트웨어공학 학술대회(KCSE 2025)
+   - 2저자, KCSE 2025 한국소프트웨어공학 학술대회
 
 ---
 
@@ -31,7 +31,7 @@
 
 - **Pressure Ulcer Prevention System**
   - YOLO Pose 기반 자세 분석
-  - 압력센서 히트맵 융합
+  - 압력센서 히트맵
   - 실시간 욕창 위험도 모니터링
 
 - **Skin Cancer Progression Simulation**
