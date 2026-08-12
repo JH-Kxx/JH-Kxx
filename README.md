@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🧠 Computer Vision, Generative AI & Vision-Language Models
+🧠 Generative AI & Vision-Language Models
 
 🎓 Undergraduate Researcher @ Konyang University
 
