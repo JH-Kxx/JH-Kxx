@@ -83,7 +83,7 @@ Six projects across **image generation, vision–language verification, medical 
 <td width="50%" valign="top">
 <p><img src="https://img.shields.io/badge/GENERATIVE%20AI%20%2F%20MEDICAL%20IMAGING-DB2777?style=for-the-badge" alt="GENERATIVE AI / MEDICAL IMAGING" /></p>
 <h3>01 / Skin Cancer Image Generation</h3>
-<a href="https://github.com/JH-Kxx/skincancer-GAN-Simulation"><img src="https://raw.githubusercontent.com/JH-Kxx/skincancer-GAN-Simulation/main/images/fig4-generated-samples.png" width="440" alt="Skin Cancer Image Generation project visual" /></a>
+<a href="https://github.com/JH-Kxx/skincancer-GAN-Simulation"><img src="https://raw.githubusercontent.com/JH-Kxx/skincancer-GAN-Simulation/main/images/fig6-sefa-1.png" width="440" alt="SeFa semantic direction example 1: visual changes as alpha increases" /><br /><img src="https://raw.githubusercontent.com/JH-Kxx/skincancer-GAN-Simulation/main/images/fig7-sefa-2.png" width="440" alt="SeFa semantic direction example 2: visual changes as alpha increases" /></a>
 <p><strong>From image synthesis to semantic latent manipulation.</strong></p>
 <p>A skin lesion generation and visual change simulation study using StyleGAN2-ADA, a custom e4e encoder, and SeFa. Real images are projected into W+ space, then moved along semantic directions to explore changes in pigmentation, boundaries, and appearance.</p>
 <ul><li>HAM10000: nevus and melanoma image subsets.</li><li>512 × 512 synthesis with StyleGAN2-ADA.</li><li>Custom e4e inversion with a frozen generator.</li><li>SeFa-based semantic direction exploration.</li></ul>
@@ -109,7 +109,7 @@ Six projects across **image generation, vision–language verification, medical 
 <td width="50%" valign="top">
 <p><img src="https://img.shields.io/badge/MEDICAL%20AI%20%2F%20SENSOR%20INTEGRATION-0891B2?style=for-the-badge" alt="MEDICAL AI / SENSOR INTEGRATION" /></p>
 <h3>03 / Pressure Ulcer Prevention System</h3>
-<a href="https://github.com/JH-Kxx/Ulcer-Prevention-AI-System"><img src="https://raw.githubusercontent.com/JH-Kxx/Ulcer-Prevention-AI-System/main/docs/dashboard/dashboard_demo.png" width="440" alt="Pressure Ulcer Prevention System project visual" /></a>
+<a href="https://github.com/JH-Kxx/Ulcer-Prevention-AI-System"><img src="https://raw.githubusercontent.com/JH-Kxx/Ulcer-Prevention-AI-System/main/docs/dashboard/system_demo.png" width="440" alt="Pressure Ulcer Prevention System project visual" /></a>
 <p><strong>Connecting body pose, pressure sensing, and monitoring.</strong></p>
 <p>A real-time monitoring prototype for pressure ulcer prevention research. The system combines camera-based pose estimation, graph-based keypoint refinement, pressure sensing, and an integrated dashboard.</p>
 <ul><li>YOLO Pose estimates body keypoints from RGB frames.</li><li>GCN refines keypoints using body-joint relationships.</li><li>SLP data supports the pose refinement training pipeline.</li><li>Arduino pressure sensing feeds interpolated pressure heatmaps.</li></ul>
@@ -251,18 +251,6 @@ Six projects across **image generation, vision–language verification, medical 
 <img src="https://img.shields.io/badge/Flask-0F766E?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
-
-| Area | Methods & Experience |
-| :--- | :--- |
-| **Audio Representation** | Audio–text alignment, species-level embeddings, retrieval analysis, cross-modal evaluation |
-| **Generative Modeling** | Adversarial learning, unpaired image translation, W+ inversion, semantic latent manipulation |
-| **Multimodal Learning** | Image–text feature fusion, attention-based classification, caption grounding and verification |
-| **Computer Vision** | Image classification, object grounding, pose estimation, graph-based keypoint refinement |
-| **Model Efficiency** | Residual-depth ablation, channel-width scaling, depthwise separable convolution, throughput comparison |
-| **Machine Learning** | Correlation analysis, statistical feature engineering, MLJAR-Supervised, tree-based ensemble models |
-| **Evaluation** | Retrieval metrics, FID, PSNR, SSIM, LPIPS, PCKh, NMAE, cosine similarity, embedding visualization |
-| **Application Development** | Flask interfaces, monitoring dashboards, camera pipelines, Arduino sensor integration |
-| **Research Environment** | Ubuntu / Linux, Windows, NVIDIA CUDA, PyTorch, notebooks and Python scripts |
 
 <sub>Tools and methods reflect project experience and current research usage.</sub>
 
