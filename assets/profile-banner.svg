@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Junhyeok Kang — Audio, Vision and Generative AI">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B38"/><stop offset=".55" stop-color="#20204B"/><stop offset="1" stop-color="#343078"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+</defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<circle cx="1120" cy="70" r="190" fill="#8B5CF6" opacity=".12"/>
+<circle cx="1200" cy="370" r="250" fill="#22D3EE" opacity=".07"/>
+<g fill="none" stroke="#A78BFA" opacity=".24"><circle cx="1050" cy="206" r="113"/><circle cx="1050" cy="206" r="148"/><ellipse cx="1050" cy="206" rx="70" ry="148"/><path d="M902 206h296M1050 58v296"/></g>
+<g stroke="url(#accent)" stroke-width="5" stroke-linecap="round">
+<path d="M919 206v-14m14 32v-37m14 60v-82m14 64v-48m14 92v-134m14 99v-66m14 116v-162m14 126v-91m14 124v-158m14 111v-62m14 87v-113m14 96v-78m14 52v-27m14 41v-56m14 40v-23"/>
+</g>
+<rect x="64" y="64" width="45" height="4" rx="2" fill="#22D3EE"/>
+<text x="124" y="72" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#C4B5FD">RESEARCH / BUILD / EVALUATE</text>
+<text x="60" y="157" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="#FFFFFF">JUNHYEOK KANG</text>
+<text x="64" y="207" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#67E8F9">Audio. Vision. Generative AI.</text>
+<text x="64" y="252" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#CBD5E1">Learning representations. Connecting modalities. Building systems.</text>
+<rect x="64" y="299" width="492" height="37" rx="18" fill="#FFFFFF" opacity=".08"/>
+<text x="84" y="323" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing=".8" fill="#E2E8F0">UNDERGRADUATE RESEARCHER  /  KONYANG UNIVERSITY</text>
+<rect x="64" y="377" width="1152" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
