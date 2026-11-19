@@ -158,7 +158,9 @@ Six projects across **image generation, vision–language verification, medical 
 </td>
 </tr>
 </table>
+
 ---
+
 ## 📚 Publications & Awards
 
 ### 🥇 Skin Lesion Generation · First Author
