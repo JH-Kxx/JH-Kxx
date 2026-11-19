@@ -158,8 +158,6 @@ Six projects across **image generation, vision–language verification, medical 
 </td>
 </tr>
 </table>
-
-<sub>Numerical results are reported in the linked project repositories and depend on their evaluation settings. Skin lesion generation explores visual changes; it does not establish clinically validated disease progression prediction. The pressure ulcer project is a monitoring research prototype.</sub>
 ---
 ## 📚 Publications & Awards
 
