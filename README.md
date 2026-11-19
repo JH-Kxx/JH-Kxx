@@ -160,24 +160,7 @@ Six projects across **image generation, vision–language verification, medical 
 </table>
 
 <sub>Numerical results are reported in the linked project repositories and depend on their evaluation settings. Skin lesion generation explores visual changes; it does not establish clinically validated disease progression prediction. The pressure ulcer project is a monitoring research prototype.</sub>
-
-## 📊 Experimental Highlights
-
-| Project | Comparison / Measure | Reported Result |
-| :--- | :--- | :--- |
-| **Skin Lesion Generation** | StyleGAN2-ADA FID during training ↓ | **106.47 → 31.96** |
-| **Lightweight CycleGAN** | Generator parameters: 9 vs. 4 residual blocks ↓ | **11.37M → 5.48M** |
-| **Lightweight CycleGAN** | Inference throughput: 9 vs. 4 blocks ↑ | **169.78 → 272.90 FPS** |
-| **Lightweight CycleGAN** | PSNR / SSIM / LPIPS: 4-block model | **21.111 / 0.852 / 0.235** |
-| **Multimodal Emotion Recognition** | CNN-only vs. CNN + VLM accuracy ↑ | **76.97% → 82.26%** |
-| **Pose Refinement** | YOLO Pose vs. YOLO Pose + GCN PCKh@0.5 ↑ | **0.628 → 0.819** |
-| **Citrus Yield Prediction** | Baseline vs. engineered-feature NMAE ↓ | **0.1016 → 0.0714** |
-| **VLM Hallucination Detection** | Demonstrated verification coverage | **Object · Color · Quantity** |
-
-<sub>Each row belongs to its own experiment; metrics should not be compared across different projects. Qualitative verification coverage is distinguished from quantitative performance.</sub>
-
 ---
-
 ## 📚 Publications & Awards
 
 ### 🥇 Skin Lesion Generation · First Author
